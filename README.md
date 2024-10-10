@@ -1,5 +1,11 @@
 ## Olá! Eu sou o Arthur Maciel.
 
+• Atualmente, estou cursando o sexto período de Ciência da Computação na Universidade Federal do Espírito Santo (UFES).
+
+• Interesse em Ciência de Dados e Inteligência Artificial.
+
+
+
 <!--
 **ArtUfes/ArtUfes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
