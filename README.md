@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Arthur Maciel.
 
-• Atualmente, estou cursando o sexto período de Ciência da Computação na Universidade Federal do Espírito Santo (UFES).
+• 👨‍🎓 Atualmente, estou cursando o sexto período de Ciência da Computação na Universidade Federal do Espírito Santo (UFES).
 
-• Interesse em Ciência de Dados e Inteligência Artificial.
+• 👨🏻‍💻 Interesse em Ciência de Dados e Inteligência Artificial.
 
-• Contato: arthurmaciel2000@gmail.com
+• 📫 Contato: arthurmaciel2000@gmail.com
 
 ### Tecnologias que tenho conhecimento
 <div style="display: inline_block">
