@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur Maciel.
 
-• 👨‍🎓 Atualmente, estou cursando o sexto período de Ciência da Computação na Universidade Federal do Espírito Santo (UFES).
+• 👨‍🎓 Atualmente, estou cursando o sétimo período de Ciência da Computação na Universidade Federal do Espírito Santo (UFES).
 
 • 👨🏻‍💻 Interesse em Ciência de Dados e Inteligência Artificial.
 
